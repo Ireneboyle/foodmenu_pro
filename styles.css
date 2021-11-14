@@ -855,6 +855,10 @@ header .icons #menu-bars{
 
 
 }
+    .swiper-pagination-bullet-active{
+    background:var(--green);
+    margin-bottom: 20px;
+}
 }
 
 @media (max-width:768px){
@@ -901,6 +905,10 @@ header .icons #menu-bars{
 
 
 }
+    .swiper-pagination-bullet-active{
+    background:var(--green);
+    margin-bottom: 20px;
+}
     
 
 }
@@ -926,6 +934,10 @@ header .icons #menu-bars{
         overflow-x: hidden ! important;
 
 
+}
+    .swiper-pagination-bullet-active{
+    background:var(--green);
+    margin-bottom: 20px;
 }
     
 
