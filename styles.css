@@ -786,6 +786,9 @@ header .icons #menu-bars{
         flex-basis: 100%;
 
     } */
+    body{
+        overflow-x: hidden !important;
+    }
    
     .cart-info p{
         display:none;
