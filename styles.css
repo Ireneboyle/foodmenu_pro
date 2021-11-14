@@ -899,7 +899,10 @@ header .icons #menu-bars{
 
 }
     .cart-item-image {
-    width: 100%;
+       width: 200px;
+       height:200px;
+        
+       
 }
 
 }
@@ -925,6 +928,13 @@ header .icons #menu-bars{
     margin-top: 20px;
 
 }
+     .cart-item-image {
+       width: 200px;
+       height:200px;
+        
+       
+}
+
 
 }
 
