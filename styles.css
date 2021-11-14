@@ -786,10 +786,12 @@ header .icons #menu-bars{
         flex-basis: 100%;
 
     } */
-    
    
     .cart-info p{
         display:none;
+    }
+    .shop-item-image {
+        width: 100%;
     }
        
 }
@@ -835,9 +837,6 @@ header .icons #menu-bars{
     html{
         font-size: 55%;
     }
-    body{
-        overflow-x: hidden;
-    }
     
     header{
         padding:1rem 2rem;
@@ -846,8 +845,9 @@ header .icons #menu-bars{
     section{
         padding:2rem;
     }
-  
-    
+    .shop-item-image {
+      width: 100%;
+    }
 
 
 }
@@ -879,9 +879,6 @@ header .icons #menu-bars{
         font-size: 2rem;
         background:#eee;
     }
-     body{
-        overflow-x: hidden;
-    }
 
     #search-form #search-box{
         width:90%;
@@ -891,8 +888,10 @@ header .icons #menu-bars{
     .home .home-slider .slide .content h3{
         font-size: 5rem;
     }
-   
-   
+    .shop-item-image {
+        width: 100%;
+      }
+    
 
 }
 
@@ -900,9 +899,6 @@ header .icons #menu-bars{
 
     html{
         font-size: 50%;
-    }
-     body{
-        overflow-x: hidden;
     }
 
     .dishes .box-container .box img{
@@ -913,9 +909,10 @@ header .icons #menu-bars{
     .order form .inputBox .input{
         width:100%;
     }
-   
+    .shop-item-image {
+        width: 100%;
+      }
     
-
 
 }
 
