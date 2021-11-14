@@ -786,9 +786,7 @@ header .icons #menu-bars{
         flex-basis: 100%;
 
     } */
-    body{
-        overflow-x: hidden !important;
-    }
+    
    
     .cart-info p{
         display:none;
@@ -837,6 +835,9 @@ header .icons #menu-bars{
     html{
         font-size: 55%;
     }
+    body{
+        overflow-x: hidden;
+    }
     
     header{
         padding:1rem 2rem;
@@ -876,6 +877,9 @@ header .icons #menu-bars{
         font-size: 2rem;
         background:#eee;
     }
+     body{
+        overflow-x: hidden;
+    }
 
     #search-form #search-box{
         width:90%;
@@ -892,6 +896,9 @@ header .icons #menu-bars{
 
     html{
         font-size: 50%;
+    }
+     body{
+        overflow-x: hidden;
     }
 
     .dishes .box-container .box img{
