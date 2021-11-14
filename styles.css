@@ -847,7 +847,7 @@ header .icons #menu-bars{
         padding:2rem;
     }
     .dishes .sub-heading{
-    margin-top: 20px;
+    margin-top: 40px;
 
 }
     
@@ -895,15 +895,10 @@ header .icons #menu-bars{
         font-size: 5rem;
     }
     .dishes .sub-heading{
-    margin-top: 20px;
+    margin-top: 40px;
 
 }
-    .cart-item-image {
-       width: 200px;
-       height:200px;
-        
-       
-}
+   
 
 }
 
@@ -925,15 +920,10 @@ header .icons #menu-bars{
         width:100%;
     }
     .dishes .sub-heading{
-    margin-top: 20px;
+    margin-top: 40px;
 
 }
-     .cart-item-image {
-       width: 200px;
-       height:200px;
-        
-       
-}
+    
 
 
 }
