@@ -846,6 +846,11 @@ header .icons #menu-bars{
     section{
         padding:2rem;
     }
+    .dishes .sub-heading{
+    margin-top: 20px;
+
+}
+    
 
 
 }
@@ -889,6 +894,13 @@ header .icons #menu-bars{
     .home .home-slider .slide .content h3{
         font-size: 5rem;
     }
+    .dishes .sub-heading{
+    margin-top: 20px;
+
+}
+    .cart-item-image {
+    width: 100%;
+}
 
 }
 
@@ -909,6 +921,10 @@ header .icons #menu-bars{
     .order form .inputBox .input{
         width:100%;
     }
+    .dishes .sub-heading{
+    margin-top: 20px;
+
+}
 
 }
 
