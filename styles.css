@@ -849,8 +849,11 @@ header .icons #menu-bars{
     .shop-item-image {
       width: 100%;
     }
+    body{
+        overflow-x: hidden ! important;
 
 
+}
 }
 
 @media (max-width:768px){
@@ -892,6 +895,11 @@ header .icons #menu-bars{
     .shop-item-image {
         width: 100%;
       }
+     body{
+        overflow-x: hidden ! important;
+
+
+}
     
 
 }
@@ -913,6 +921,11 @@ header .icons #menu-bars{
     .shop-item-image {
         width: 100%;
       }
+     body{
+        overflow-x: hidden ! important;
+
+
+}
     
 
 }
