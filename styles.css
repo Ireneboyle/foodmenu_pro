@@ -616,7 +616,9 @@ header .icons #menu-bars{
 
 
 /* shop */
-
+.content-section{
+    margin-top: 50px;
+}
 .section-header{
     margin-top: 50px;
     color: #808080;
